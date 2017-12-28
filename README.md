@@ -1,5 +1,7 @@
-## Prj---Wrangle-OpenStreetMap-Data
+# Wrangle OpenStreetMap Data
 
-**Project file:** Project+-+Wrangle+OpenStreetMap+Data.html  
-**Script:** openStreetMap.py  
+Here, Will use MongoDB to complete this project. There are two python scripts to support the the data audit and cleaning. 
+
+* review_and_audit.py - review/audit the initial OSM file
+* openStreetMap.py - cleaning
 
