@@ -21,6 +21,7 @@ amenity_r = re.compile('[^\w]|_')
 
 # address type mapping to be updated 
 mapping = { "St": "Street",
+            "S.": "Square",
             "road": "Road",
             "Ave": "Avenue",
             "Av": "Avenue",
